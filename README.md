@@ -85,44 +85,49 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 ### TOP 5 ELEMENTS
-![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/9f6fe04b-767a-4fe1-a08a-d10ecf965f12)
+
+![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/04b0fcce-c444-42d7-b055-a7e6ac77678d)
+
+![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/e9963d89-9a92-4575-b01e-677a85537cf1)
+
+![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/e21f9740-4b51-489a-a471-f59892e74f69)
 
 
-
-![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/958449ad-7710-4cdf-a5ca-1e7513d5e765)
 
 ### DATA DUPLICATE
 
-
-![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/dedc174a-504b-407e-9c78-f0dc56a4c25b)
+![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/210eead6-4770-4e23-b794-b1a5f9428e0d)
 
 
 ### PRINT DATA
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/95283ec5-e5ff-4783-9368-50d85ce85052)
+![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/2ad5eecf-18b0-47ba-84e0-9fc00443541e)
+
 
 ### DATA_STATUS
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/e222167f-0780-4199-9588-9a660bf0ae7c)
+![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/3a6e8cae-f77d-414e-b674-020cd6f87fae)
 
 
 ### Y_PREDICTION ARRAY
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/2a10248e-b708-43d7-84e1-278c34cfcdeb)
+![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/ff5c9ca0-aa45-4b9f-a727-8ff5bb079ba9)
+
 
 ### CONFUSION ARRAY
-![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/a5cdf063-69ec-424d-b683-0e3f4641a8bd)
+![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/1e6c4ab6-c90b-4278-be39-1f7721487b21)
 
 ### ACCURACY VALUE
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/22d97e80-aa70-4bb8-be92-87e92a88d7cc)
+![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/e70452c6-a4ee-4428-be43-bfd1d677f5fa)
 
 ### CLASSFICATION REPORT
 
+![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/70144eaf-0396-4780-ac47-a34e16f85ad8)
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/8ecc1721-e62d-435c-9df1-97670e572e0d)
 ### PREDICTION
-![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/394cb915-b7e1-4023-8151-6d4a13d8b71f)
+![image](https://github.com/HIRU-VIRU/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145972122/791654fd-4387-4d63-a415-cbaa1564a6a1)
+
 
 
 ## Result:
